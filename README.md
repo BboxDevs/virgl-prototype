@@ -1,6 +1,6 @@
 # Virgl prototype
 
-## Chrome plugin
+## [Chrome plugin](/plugin/README.md)
 
     Plugin to keep track of applications and save to database
 
@@ -11,7 +11,7 @@
   - [json-server](https://www.npmjs.com/package/json-server)
   - Node 16
 
-## Pdf parser
+## [Pdf parser](/parser/README.md)
 
     Parse pdf resume to build user profile
 
