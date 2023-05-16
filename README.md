@@ -2,7 +2,7 @@
 
 ## [Chrome plugin](/plugin/README.md)
 
-    Plugin to keep track of applications and save to database
+Plugin to keep track of applications and save to database
 
 ### Stack
 
@@ -13,7 +13,7 @@
 
 ## [Pdf parser](/parser/README.md)
 
-    Parse pdf resume to build user profile
+Parse pdf resume to build user profile
 
 ### Stack
 
@@ -21,14 +21,14 @@
 
 ## Development and Branching
 
-    If you want to create your own branch, please use the following naming
+If you want to create your own branch, please use the following naming
 
-    ```
-    [your name]/[folder name]
-    ```
+```
+[your name]/[folder name]
+```
 
-    eg
+eg
 
-    ```
-    jek/plugin
-    ```
+```
+jek/plugin
+```
