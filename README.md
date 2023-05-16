@@ -18,3 +18,17 @@
 ### Stack
 
   - Python3
+
+## Development and Branching
+
+    If you want to create your own branch, please use the following naming
+
+    ```
+    [your name]/[folder name]
+    ```
+
+    eg
+
+    ```
+    jek/plugin
+    ```
