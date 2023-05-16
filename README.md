@@ -1,6 +1,6 @@
 # Virgl prototype
 
-## [Chrome plugin](/plugin/README.md)
+## [Chrome plugin](https://github.com/BboxDevs/virgl-prototype/tree/main/plugin)
 
 Plugin to keep track of applications and save to database
 
@@ -11,7 +11,7 @@ Plugin to keep track of applications and save to database
   - [json-server](https://www.npmjs.com/package/json-server)
   - Node 16
 
-## [Pdf parser](/parser/README.md)
+## [Pdf parser](https://github.com/BboxDevs/virgl-prototype/tree/main/parser)
 
 Parse pdf resume to build user profile
 
