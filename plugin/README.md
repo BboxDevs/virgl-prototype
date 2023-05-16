@@ -12,13 +12,13 @@ You can follow the basic instructions [here](https://developer.chrome.com/docs/e
 
 ## Local Development
 
-- Install dependencies
+1. Install dependencies
 
 ```
 npm i
 ```
 
-- Run json-server for the database. This will run the server on default `http://localhost:3000`. You can use this to fetch data.
+2. Run json-server for the database. This will run the server on default `http://localhost:3000`. You can use this to fetch data.
 
 ```
 npm run db
