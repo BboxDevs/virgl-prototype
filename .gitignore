@@ -1,0 +1,6 @@
+# plugin
+**/*/node_modules
+
+
+# parser
+**/*/.venv
