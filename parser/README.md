@@ -50,7 +50,7 @@ Add notes here if you want. Any discovery, issues, limitations and whatnot.
 2. Download chromedriver 
 
   ```
-  wget https://chromedriver.storage.googleapis.com/94.0.4606.61/chromedriver_linux64.zip  
+  wget https://chromedriver.storage.googleapis.com/113.0.5672.63/chromedriver_linux64.zip  
   ```
 
 3. Extract the driver in this folder
