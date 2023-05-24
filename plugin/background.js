@@ -10,7 +10,7 @@ chrome.tabs.onActivated.addListener(async (tab) => {
     }
     const [tabQuery] = await chrome.tabs.query({active:true, lastFocusedWindow: true})
     tabObj[tab.tabId] = {... tabObj[tab.tabId], isComplete: urlStatus[tabQuery.status], url: tabQuery.url}
-    chrome.tabs.sendMessage(tabId, tabObj[tab.tabId])
+    chrome.tabs.sendMessage(tab.tabId, tabObj[tab.tabId])
 })
 
 chrome.tabs.onUpdated.addListener(async (tabId, tab) => {
