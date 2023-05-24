@@ -24,7 +24,8 @@
         indeedSaveButton.style.setProperty('order', '3')
     
         // todo: the jobTitle and jobCompany doesn't seem to show up on the dashboard. Coz of React
-        // todo: check on mutation observer
+        // todo: check on mutation observer (might not work?)
+        // todo: check on intervals and timeouts
     
         saveButton.addEventListener('click', () => {
             console.log('receive message from extension', obj)
